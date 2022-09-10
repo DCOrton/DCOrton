@@ -1,4 +1,4 @@
 Hi, I’m @DCOrton.
 
-I am currently entering the last year in my Batchelor's of Electrical Engineering at Concordia University. 
+A Current Graduate Student in Eletrical and Computer Engineering as well as a diverse hobby collecting Hobbyist. 
 This git repo holds a wide range of projects from course assignments to personal hobbies ad everything in between. 
