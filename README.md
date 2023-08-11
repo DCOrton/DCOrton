@@ -1,6 +1,6 @@
 Welcome,
 
-I’m a current Graduate Student in Eletrical and Computer Engineering at Queen's University. I am as well a diverse hobbyist, recently woodworking and writing have taken the spotlight. 
+I’m a current Graduate Student in Electrical and Computer Engineering at Queen's University. I am as well a diverse hobbyist, recently woodworking and writing have taken the spotlight. 
 
 This git repo holds a wide range of projects from Graduate project, to course assignments from my undergrad, to personal hobbies and everything in between. 
 
